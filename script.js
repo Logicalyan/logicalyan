@@ -1,15 +1,15 @@
  data = [{
-    'img1': 'Projek.jpg',
-    'img2': 'meme.jpg',
-    'title':'Web E-Commerce',
+    'img1': 'Assets/Projek.jpg',
+    'img2': 'Assets/meme.jpg',
+    'title':'Web E-Learning',
     'subtitle': 'Zenit',
     'desc': "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores nulla nesciunt impedit totam aperiam vitae enim, incidunt porro ullam."
  }, {
-    'img1': 'Projek.jpg',
-    'img2': 'meme.jpg',
-    'title':'Web Design',
-    'subtitle': '',
-    'desc': "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores nulla nesciunt impedit totam aperiam vitae enim, incidunt porro ullam."
+    'img1': 'Assets/Champions.jpg',
+    'img2': 'Assets/MCL.jpg',
+    'title':'Mobile Legend',
+    'subtitle': 'Champions MCL',
+    'desc': "Ini adalah kemenangan MCL Pertamaku, yang diraih pada tanggal 4 September 2021."
  }]
 
  var container = document.querySelector('.container-project')
