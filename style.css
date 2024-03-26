@@ -24,7 +24,7 @@ nav{
 .logo p{
     font-size: 25px;
     font-family: 'Mulish', cursive;
-    color: #ffff;
+   color:#ffff
 }
 
 .navbar {
@@ -132,6 +132,7 @@ nav{
     object-fit: cover;
     border-radius: 100%;
 }
+
 .desc-hero{
     width: 63%;
     color: white;  
